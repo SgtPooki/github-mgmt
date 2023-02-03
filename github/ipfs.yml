@@ -3624,7 +3624,9 @@ repositories:
     archived: false
     collaborators:
       maintain:
-        - djmcquillan
+        - SgtPooki
+        - tinytb
+        - whizzzkid
       push:
         - ipfs-gui-bot
         - web3-bot
@@ -3766,7 +3768,6 @@ repositories:
           restrict_dismissals: false
     collaborators:
       push:
-        - djmcquillan
         - hugomrdias
         - ipfs-gui-bot
         - ipfsbot
@@ -5073,7 +5074,6 @@ repositories:
       admin:
         - lidel
       push:
-        - djmcquillan
         - ipfs-gui-bot
         - jamiew
         - juliaxbow
